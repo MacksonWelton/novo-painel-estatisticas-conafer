@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/novo-painel-estatistica-conafer/static/css/main.fdb99fb8.chunk.css",
+    "main.js": "/novo-painel-estatistica-conafer/static/js/main.09651ada.chunk.js",
+    "main.js.map": "/novo-painel-estatistica-conafer/static/js/main.09651ada.chunk.js.map",
+    "runtime-main.js": "/novo-painel-estatistica-conafer/static/js/runtime-main.6c53ec89.js",
+    "runtime-main.js.map": "/novo-painel-estatistica-conafer/static/js/runtime-main.6c53ec89.js.map",
+    "static/css/2.7a4a9859.chunk.css": "/novo-painel-estatistica-conafer/static/css/2.7a4a9859.chunk.css",
+    "static/js/2.daca858a.chunk.js": "/novo-painel-estatistica-conafer/static/js/2.daca858a.chunk.js",
+    "static/js/2.daca858a.chunk.js.map": "/novo-painel-estatistica-conafer/static/js/2.daca858a.chunk.js.map",
+    "index.html": "/novo-painel-estatistica-conafer/index.html",
+    "precache-manifest.bd8defafeeebcc7e54d19cdc463a5de6.js": "/novo-painel-estatistica-conafer/precache-manifest.bd8defafeeebcc7e54d19cdc463a5de6.js",
+    "service-worker.js": "/novo-painel-estatistica-conafer/service-worker.js",
+    "static/css/2.7a4a9859.chunk.css.map": "/novo-painel-estatistica-conafer/static/css/2.7a4a9859.chunk.css.map",
+    "static/css/main.fdb99fb8.chunk.css.map": "/novo-painel-estatistica-conafer/static/css/main.fdb99fb8.chunk.css.map",
+    "static/js/2.daca858a.chunk.js.LICENSE.txt": "/novo-painel-estatistica-conafer/static/js/2.daca858a.chunk.js.LICENSE.txt",
+    "static/js/main.09651ada.chunk.js.LICENSE.txt": "/novo-painel-estatistica-conafer/static/js/main.09651ada.chunk.js.LICENSE.txt",
+    "static/media/argon-react.png": "/novo-painel-estatistica-conafer/static/media/argon-react.f38ddea9.png",
+    "static/media/all.min.css": "/novo-painel-estatistica-conafer/static/media/fa-solid-900.cdfec5cf.woff",
+    "static/media/facebook.svg": "/novo-painel-estatistica-conafer/static/media/facebook.2fb66b88.svg",
+    "static/media/google.svg": "/novo-painel-estatistica-conafer/static/media/google.87be59a1.svg",
+    "static/media/nucleo.css": "/novo-painel-estatistica-conafer/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/profile-cover.jpg": "/novo-painel-estatistica-conafer/static/media/profile-cover.e2582654.jpg",
+    "static/media/sistemalogo.png": "/novo-painel-estatistica-conafer/static/media/sistemalogo.0cd7c7cc.png",
+    "static/media/team-1-800x800.jpg": "/novo-painel-estatistica-conafer/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-3-800x800.jpg": "/novo-painel-estatistica-conafer/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/novo-painel-estatistica-conafer/static/media/team-4-800x800.23007132.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c53ec89.js",
+    "static/css/2.7a4a9859.chunk.css",
+    "static/js/2.daca858a.chunk.js",
+    "static/css/main.fdb99fb8.chunk.css",
+    "static/js/main.09651ada.chunk.js"
+  ]
+}
